@@ -9,6 +9,7 @@ Tenho mergulhado no mundo da programação desde que conheci um pouco mais sobre
 
 🚀   Atualmente, curso Análise e desenvolvimento de sistemas na Cruzeiro do Sul, além de cursos específicos como Python, HTML, CSS e JavaScript.
 
+https://www.linkedin.com/in/lucas-pereira-marcolino/
 <!--
 **LucasPluccas/LucasPluccas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
