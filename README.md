@@ -1,9 +1,9 @@
 👋  Olá, eu sou o Lucas Pereira, um desenvolvedor em construção, tentando chegar lá!
     
 
-👨🏻‍💻  About Me
+👨🏻‍💻  About Me  👨🏻‍💻 
 
-👨🏻‍💻   Tenho mergulhado no mundo da programação desde que conheci um pouco mais sobre, no final de 2023 para ser mais exato. Foi quando precisei ajudar o time de desenvolvimento na implementação do BI no meu trabalho, estava ajudando apenas com os insights e expertise comercial na nossa área de atuação, quando comecei a entender instintivamente a lógica que o meu colega Mauro estava aplicando nas linhas de código do Python! Aquilo foi muito bom de sentir pra falar a verdade, estava alí uma luz no fim do túnel para um profissional com quase 10 anos de atuação no ramo logístico que pensava em encontrar uma nova área de trabalho.
+Tenho mergulhado no mundo da programação desde que conheci um pouco mais sobre, no final de 2023 para ser mais exato. Foi quando precisei ajudar o time de desenvolvimento na implementação do BI no meu trabalho, estava ajudando apenas com os insights e expertise comercial na nossa área de atuação, quando comecei a entender instintivamente a lógica que o meu colega Mauro estava aplicando nas linhas de código do Python! Aquilo foi muito bom de sentir pra falar a verdade, estava alí uma luz no fim do túnel para um profissional com quase 10 anos de atuação no ramo logístico que pensava em encontrar uma nova área de trabalho.
 
 💚   Desde então tenho me dedicado a estudar e trilhar um caminho Full Stack, está longe ainda, mas eu chegarei, com paciência, dedicação e empenho, eu chagarei.
 
